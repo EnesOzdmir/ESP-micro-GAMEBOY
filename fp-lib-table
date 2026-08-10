@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Library") (type "KiCad") (uri "/home/enes/Devreler/Library.pretty") (options "") (descr ""))
+	(lib (name "enes") (type "KiCad") (uri "${KIPRJMOD}/enes.pretty") (options "") (descr ""))
+)

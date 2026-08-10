@@ -1,0 +1,31 @@
+# Geçici dosyalar ve yedekler
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*-cache*
+*-bak
+*-bak*
+*~
+~*
+_autosave-*
+\#auto_saved_files\#
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+~*.lck
+
+# Dışa aktarılan çıktı dosyaları (İsteğe bağlı)
+*.net
+*.dsn
+*.ses
+*.xml
+*.csv
+**/*-backups/*.zip
+
+# KiCad 9+ ve yerel ayarlar
+.history
+*.kicad_prl
